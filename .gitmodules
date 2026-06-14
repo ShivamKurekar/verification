@@ -1,3 +1,6 @@
 [submodule "formal_examples"]
 	path = formal_examples
 	url = git@github.com:ShivamKurekar/formal_examples.git
+[submodule "fifo_verification"]
+	path = fifo_verification
+	url = git@github.com:ShivamKurekar/fifo_verification.git
